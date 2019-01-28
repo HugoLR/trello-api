@@ -1,0 +1,35 @@
+{
+  "boards": [{
+    "lists": [{
+      "id": "1",
+      "name": "To Do",
+      "created_at": "Jan 14 2019",
+      "cards": [{
+        "id": "1",
+        "name": "Take SCRUM test"
+      }, {
+        "id": "2",
+        "name": "Learn GraphQL Testing Strategies"
+      }]
+    }, {
+      "id": "2",
+      "name": "Doing",
+      "created_at": "Feb 10 2019",
+      "cards": [{
+        "id": "1",
+        "name": "Jenkins + CI"
+      }]
+    }, {
+      "id": "3",
+      "name": "Done",
+      "created_at": "Apr 22 2019",
+      "cards": [{
+        "id": "1",
+        "name": "MongoDB Certification"
+      }, {
+        "id": "2",
+        "name": "Payment to AWS Account"
+      }]
+    }]
+  }]
+}
